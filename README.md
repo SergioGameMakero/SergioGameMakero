@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SergioGameMakero
+- 🎮 I like make fangames/games in Game Maker
+- 🌱 I’m currently learning GML
